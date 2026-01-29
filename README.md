@@ -67,7 +67,7 @@ WM17S.pdf
 At the end it will ask for output pdf file path , just add
 
 ```
-ouput.pdf
+output.pdf
 ```
 
 
