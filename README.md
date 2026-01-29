@@ -34,7 +34,7 @@ This project uses AI to analyze blood test reports, search for relevant health a
 
 1. Clone the repository:
    ```
-   git clone https://github.com/harsh-kumar-patwa/Blood-Test-Report-Analyser
+   git clone https://github.com/TanuPriya04/Blood-Test-Report-Analyser
    cd Blood-Test-Report-Analyser
    ```
 
